@@ -7,7 +7,8 @@ PhD in Optics/Nanoscience | AI for Semiconductor Metrology
 - Transitioning to AI Application Engineering
 - Target: ASML · KLA · Lam Research
 
-## Projects (Coming Soon)
-- 🔴 Project #1: SEM Image Defect Classification (Month 5-6)
-- 🟡 Project #2: Raman Spectrum Deep Learning Analysis (Month 7-8)  
-- 🟢 Project #3: Process Anomaly Detection System (Month 8-9)
+### ✅ Project #0: MoSe2 PL Spectrum Analysis
+- Automated peak detection & FWHM calculation
+- Data: Personal PhD measurement data (WITec confocal)
+- Tools: pandas, scipy, matplotlib
+
